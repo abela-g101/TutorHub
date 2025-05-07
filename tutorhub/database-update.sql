@@ -1,0 +1,4 @@
+
+ALTER TABLE applications ADD COLUMN cv_path VARCHAR(255) DEFAULT NULL;
+
+s
